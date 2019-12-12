@@ -1,0 +1,12 @@
+export const FILTER_CHANGED = 'FILTER_CHANGED';
+export const SORT_CHANGED = 'SORT_CHANGED';
+export const RESET_FILTERSORT = 'RESET_FILTERSORT'; 
+export const TAB_CHANGED = 'TAB_CHANGED';
+export const UPDATE_TEXT = 'UPDATE_TEXT';
+export const RESET_TEXT = 'RESET_TEXT';
+export const FETCH_MOVIE = 'FETCH_MOVIES';
+export const RESET_MOVIE = 'RESET_MOVIE';
+export const EXPAND = 'EXPAND';
+export const CURRENT_MOVIE = 'CURRENT_MOVIE'; 
+export const LOAD_MORE = 'LOAD_MORE';
+export const RESET_PAGE = 'RESET_PAGE';
