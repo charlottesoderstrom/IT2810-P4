@@ -1,17 +1,21 @@
-**For å kjøre applikasjonen**   
-Last ned .zip filen av prosjektet eller kjør følgende kode i terminalen:  
-git clone https://gitlab.stud.idi.ntnu.no/IT2810-H19/teams/team-4/project-4.git   
-Navigér til prosjektmappen i terminal:  
-$ cd project-4  
+## Run the application
+```
+git clone git@github.com:charlottesoderstrom/IT2810-P4.git
+```
+```
+cd IT2810-P4
+```
+```
+cd client
+```
+```
+expo start
+```
+Open the camera on an iOS or Android device, and scann the QR code that appears in the terminal.
 
-Navigér til front-end prosjeket i project-4-mappen:  
-$ cd client  
+NB: The database is no longer available as it has been on a server hosted by NTNU for a schoold project.
 
-$ expo start  
-
-Åpne kamera på iOS eller Android, og scann QR-koden på nettsiden som dukker opp.  
-
-**Obs:** Dersom internett er tregt og expo cli sliter med å kobe seg til serveren -  eksempelvis  hvis ingen filmer vises på home page, anbefales det å avslutte expo-cli appen og scanne QR-koden på nytt.  
+Nedenfor er dokumentasjon av prosjektet, utarbeidet etter spesifikke krav fra faglærer. Dokumentasjonen er ufullstendig da det ikke er den nyeste versjonen.  
 
 **Innhold og funksjonalitet i brukergrensesnittet**  
 
